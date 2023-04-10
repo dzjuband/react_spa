@@ -1,0 +1,44 @@
+.hide {
+    display: none;
+}
+
+.active{
+    color: red;
+}
+
+.cardMarg {
+    margin: 30px;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+.paddLeft {
+    margin-left: 100px;
+}
+
+.createButtonWrap {
+    text-align: right;
+    padding-top: 10px;
+}
+
+.textarea {
+    resize: none;
+ }
+
+ .block {
+    padding-top:10px;
+    padding-bottom:10px
+ }
+ .paddbot {
+    padding-bottom: 10px;
+ }
+
+ #url {
+    margin-bottom: 10px;
+ }
+
+ .card {
+    margin-bottom: 10px ;
+ }
